@@ -10,7 +10,8 @@ html{
 
 
 html,body{
-    font-family: 'Merriweather';
+    /*font-family: 'Merriweather';*/
+	font-family: 'Arial';
     background-color: #d4d4d4;    
 }
 
